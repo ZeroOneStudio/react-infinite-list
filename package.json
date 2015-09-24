@@ -1,0 +1,19 @@
+{
+  "name": "react-infinite-list",
+  "version": "0.0.1",
+  "description": "React infinite scroll component",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZeroOneStudio/react-infinite-list.git"
+  },
+  "author": "ZeroOneStudio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZeroOneStudio/react-infinite-list/issues"
+  },
+  "homepage": "https://github.com/ZeroOneStudio/react-infinite-list",
+  "dependencies": {
+    "react": "^0.14.0-rc1",
+    "react-dom": "^0.14.0-rc1"
+  }
+}
